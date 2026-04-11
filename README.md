@@ -16,3 +16,10 @@ Optimization: Utilized GridSearchCV for hyperparameter tuning, focusing on the F
 
 Model Accuracy: The Random Forest model achieved an overall accuracy of 69% in predicting generous tippers
 
+This project helps drivers optimize their routes and schedules to maximize their daily revenue.
+
+## Achievements Tracking
+
+
+
+
