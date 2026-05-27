@@ -18,7 +18,7 @@ Model Accuracy: The Random Forest model achieved an overall accuracy of 69% in p
 
 This project helps drivers optimize their routes and schedules to maximize their daily revenue.
 
-## Achievements Tracking
+
 
 
 
