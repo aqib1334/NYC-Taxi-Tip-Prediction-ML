@@ -14,9 +14,10 @@ Data Integration: Merged the primary 2017 trip dataset with auxiliary data conta
 Algorithm: Developed a Random Forest Classifier to handle complex, non-linear relationships in the data.
 Optimization: Utilized GridSearchCV for hyperparameter tuning, focusing on the F1 Score to balance precision and recall
 
-Model Accuracy: The Random Forest model achieved an overall accuracy of 69% in predicting generous tippers
+Model Accuracy: The Random Forest model achieved an overall accuracy of 69% in predicting generous tippers.
 
 This project helps drivers optimize their routes and schedules to maximize their daily revenue.
+
 
 
 
